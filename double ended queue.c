@@ -81,7 +81,7 @@ int main()
             case 1:
                // int d;
                 printf("Enter an element to be enqueued\n");
-                scanf("%d",*d);
+                scanf("%d",&d);
                 fenqueue(d);
                 break;
             case 2:
